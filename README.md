@@ -17,7 +17,7 @@ Salient features of this chatapp includes
 
 ## DEMOS
 
-<img src="/assets/img/login.png" alt="login" style="height: 100px; width:100px;"/>
-<img src="/assets/img/search_user.png" alt="search_user" style="height: 100px; width:100px;"/>
-<img src="/assets/img/image_text_demo.png" alt="Chats" style="height: 100px; width:100px;"/>
-<img src="/assets/img/create_grp_chat.png" alt="Grp chat" style="height: 100px; width:100px;"/>
+<img src="/assets/img/login.png" alt="login" style="height: 300px; width:1000px;"/>
+<img src="/assets/img/search_user.png" alt="search_user" style="height: 300px; width:1000px;"/>
+<img src="/assets/img/image_text_demo.png" alt="Chats" style="height: 300px; width:1000px;"/>
+<img src="/assets/img/create_grp_chat.png" alt="Grp chat" style="height: 300px; width:1000px;"/>
